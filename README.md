@@ -4,7 +4,7 @@ Tenemos algunos cambios que nos gustaría aplicar a este diseño. También algun
 
 El problema: nos han dicho que NO podemos tocar ningún fichero CSS, salvo el fichero **fix.css**. Ahí, y solamente ahí, deben ir todos nuestros estilos CSS.
 
-Tampoco podemos tocar ningún fichero .html.
+Tampoco podemos tocar ningún fichero .html. Tampoco podéis usar la regla !important
 
 ## Problemas y mejoras
 
